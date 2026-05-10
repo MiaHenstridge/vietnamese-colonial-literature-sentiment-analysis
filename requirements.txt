@@ -1,0 +1,8 @@
+underthesea
+nltk
+scipy
+pandas
+numpy
+matplotlib
+stopwordsiso
+notebook
